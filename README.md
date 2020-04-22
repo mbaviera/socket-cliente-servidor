@@ -1,2 +1,2 @@
-# Teste-T-cnico
-Conexão socket aplicação servidor 
+# Aplicacao Cliente-Servidor
+Socket de conexão entre cliente e servidor em JAVA.
